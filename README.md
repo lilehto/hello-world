@@ -1,4 +1,6 @@
 hello-world
 ===========
 
-First repository
+Hello!
+
+This is my first repo. That is all. 
